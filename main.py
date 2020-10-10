@@ -36,4 +36,4 @@ if __name__ == '__main__':
 
         trainer.scale()
     
-    trainer.save('/models')
+    trainer.save('')
