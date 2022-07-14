@@ -1,5 +1,5 @@
 # ProGAN-Art-Pytorch
-An implementation of ProGAN used to generate paintings. The project uses images from the WikiArt dataset. Below there is a few example of the images produced by some models trained in this project. The results could have been a lot better with some more training, but it was difficult with a lack of compute power. I Also think it could be improved by using the class label from the wikiart dataset as input for the generator, since image in different classes are very dissimilar.
+An implementation of ProGAN used to generate paintings. The project uses images from the WikiArt dataset. Below there is a few example of the images produced by some models trained in this project. The results could have been a lot better with some more training, but it was difficult with a lack of compute power. I Also think it could be improved by using the class label from the wikiart dataset as input for the generator, since images from different classes are very dissimilar.
 
 
 ![f9f1c111-464b-4a98-9717-976a640d7b7d](https://user-images.githubusercontent.com/6470685/178933226-be6be877-526e-413d-9473-f8e0fb2fbc7c.png)
